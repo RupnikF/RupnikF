@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Franco Rupnik!
 
-> _Newly graduated Computer Engineer from ITBA | Software Engineer at Accenture_
+> _Computer Engineer from ITBA | Adjunct Professor for Microservices Architecture @ ITBA | Backend Engineer @ Mendel_
 
 ---
 
@@ -9,7 +9,7 @@
 - 🧑‍💻 Passionate about building solutions, whether it’s low-level with **C** or scalable webapps with **Java** and **Spring**.
 - 🛠️ Currently diving deep into **Golang** and **Gin**, loving their blend of simplicity and power.
 - 🤝 Skilled in teamwork, agile methodologies, and communication—pair programming is my jam!
-- 🎓 **ITBA** alumnus, always eager to learn and grow.
+- 🎓 **ITBA** alumnus and professor, always eager to learn and grow.
 
 ---
 
